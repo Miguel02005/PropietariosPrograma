@@ -7,6 +7,9 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 
+//Miguel Ángel Ortega Hernández
+//Sebastian Agudelo Suaza
+
 public class Main extends JFrame {
 
     private JPanel jPanel1, jPanel2, jPanel3;
